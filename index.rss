@@ -2,6 +2,7 @@
 <title>Damien Hou's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Author (Level 2)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Master Seamstress (Level -inf)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Apprentice Goldsmith (Level 2)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
 <item><title>Apprentice Author (Level 1)</title><description>Made 2^Level commits using git commit.</description></item>
