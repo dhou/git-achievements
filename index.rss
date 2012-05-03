@@ -2,6 +2,7 @@
 <title>Damien Hou's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Cathedral Architect (Level 4)</title><description>Added a submodule to a repository.</description></item>
 <item><title>Apprentice Cathedral Architect (Level 3)</title><description>Added a submodule to a repository.</description></item>
 <item><title>Apprentice Cathedral Architect (Level 2)</title><description>Added a submodule to a repository.</description></item>
 <item><title>Apprentice Cathedral Architect (Level 1)</title><description>Added a submodule to a repository.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Master Presenter (Level 8)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
 <item><title>Miller (Level 5)</title><description>Add only part of a file to the stage 191 times with git add -p.</description></item>
 <item><title>Product Manager (Level 6)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Master Presenter (Level 7)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
 </channel></rss>
